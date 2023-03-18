@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="this_device_does_not_have_flashlight">This device does not have flashlight</string>
+</resources>

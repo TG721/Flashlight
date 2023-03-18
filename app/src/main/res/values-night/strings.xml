@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="this_device_does_not_have_flashlight">This device does not have flashlight</string>
+</resources>
